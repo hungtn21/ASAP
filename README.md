@@ -9,6 +9,7 @@ Our project helps address communication issues in online interactions between me
 **2. IT Knowledge Disparity:** In a group, especially among students, there is often a disparity in IT skills. Our system automatically detects and explains IT terms that might be difficult. Users can understand the basic meaning of these terms just by hovering over the message.
 
 **3. Lengthy Conversations:** When a conversation becomes long, it takes a lot of time for new members to read everything and grasp the main points of the discussion. We have utilized AI to implement a 'Summary' feature that helps users quickly capture the key points of the conversation."
+
 **Instruction**
 
 Make sure that the Python version you are using is the latest version.
