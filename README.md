@@ -2,7 +2,7 @@
 
 **Visit our website here:** techbridgeofasap.pythonanywhere.com
 
-Our project helps address communication issues in online interactions between members from different countries within IT projects. By applying AI, the project solves three main problems:
+This project is developed by the HUST - SIT student team as part of the real session of gPBL (global Project-Based Learning) 2024. Our project helps address communication issues in online interactions between members from different countries within IT projects. By applying AI, the project solves three main problems:
 
 **1. Language Barriers:** Typically, when members with different languages communicate, they need to use a third-party platform for translation. This process is time-consuming as it requires switching back and forth between the chat platform and the translation tool. We have implemented AI to directly translate members' messages, then display them in the language that the user selected when registering their account.
 
